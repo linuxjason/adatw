@@ -1,0 +1,11 @@
+{
+"info": {
+"url_png_icon_64x64": "https://github.com/linuxjason/adatw/raw/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwan64.png",
+"url_png_logo":"https://github.com/linuxjason/adatw/raw/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwanlogo.png",
+"location": "Singapore, Singapore"
+},
+"name": "ADATW Pool",
+"description": "Taiwan No.1",
+"ticker": "ADATW",
+"homepage": "https://adapools.org/pool/7ce59da0bac7f64b40fcda60a7ee368d5ac8082d81f2bb75fef9e01e"
+}
