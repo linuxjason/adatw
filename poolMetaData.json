@@ -1,7 +1,7 @@
 {
  "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "url_png_icon_64x64": "https://github.com/linuxjason/adatw/blob/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwan64.png",
+        "url_png_logo": "https://github.com/linuxjason/adatw/blob/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwanlogo.png",
         "location": "Singapore, Singapore",
         "social": {
             "twitter_handle": "",
