@@ -1,5 +1,5 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - 3fb1c4992c77843aa280f7e2bb718ef5 https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://github.com/linuxjason/adatw/raw/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwan64.png",
         "url_png_logo": "https://github.com/linuxjason/adatw/raw/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwanlogo.png",
@@ -56,5 +56,5 @@
                 "key": ""
             }
         }
-    }3fb1c4992c77843aa280f7e2bb718ef5
+    }
 }
